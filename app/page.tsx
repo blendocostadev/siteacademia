@@ -44,7 +44,7 @@ export default function AcademiaWebsite() {
       <section id="inicio" className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-red-900/20 to-black"></div>
         <Image
-          src="/placeholder.svg?height=1080&width=1920"
+          src="/banner.png"
           alt="Academia PowerGym"
           fill
           className="object-cover opacity-30"
